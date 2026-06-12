@@ -15,7 +15,7 @@ end
 -- 1. ตั้งค่าข้อมูล: [Place ID] = { ลิงก์สคริปต์, ชื่อแมพ/ชื่อสคริปต์, ID รูปภาพ }
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 local scriptConfig = {
-    [1122334455] = {
+    [3351674303] = {
         Url = "https://raw.githubusercontent.com/Afz-oos/SC/refs/heads/main/DE%20KAITUN.lua",
         Name = "Driving Empire",
         Icon = "rbxassetid://12345678" -- ใส่ Asset ID รูปภาพของแมพนี้ (ต้องเป็นตัวเลข)
