@@ -16,8 +16,8 @@ end
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 local scriptConfig = {
     [1122334455] = {
-        Url = "https://raw.githubusercontent.com/USER/REPO/main/map1_script.lua",
-        Name = "สคริปต์แมพที่ 1",
+        Url = "https://raw.githubusercontent.com/Afz-oos/SC/refs/heads/main/DE%20KAITUN.lua",
+        Name = "Driving Empire",
         Icon = "rbxassetid://12345678" -- ใส่ Asset ID รูปภาพของแมพนี้ (ต้องเป็นตัวเลข)
     },
     [2233445566] = {
